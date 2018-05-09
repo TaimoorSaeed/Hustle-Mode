@@ -84,6 +84,17 @@
 			path = Storyboards;
 			sourceTree = "<group>";
 		};
+		BD663D8920A2B9AD0052967E /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				BDEB1D8120A1D1F000D91AB0 /* Assets.xcassets */,
+				BDEB1D7A20A1D1F000D91AB0 /* AppDelegate.swift */,
+				BDEB1D8620A1D1F000D91AB0 /* Info.plist */,
+				BDEB1D8320A1D1F000D91AB0 /* LaunchScreen.storyboard */,
+			);
+			path = SupportingFiles;
+			sourceTree = "<group>";
+		};
 		BDEB1D6E20A1D1F000D91AB0 = {
 			isa = PBXGroup;
 			children = (
@@ -107,13 +118,10 @@
 		BDEB1D7920A1D1F000D91AB0 /* hustle-mode */ = {
 			isa = PBXGroup;
 			children = (
+				BD663D8920A2B9AD0052967E /* SupportingFiles */,
 				BD663D8820A2B91F0052967E /* Storyboards */,
 				BDEB1DAB20A2B90800D91AB0 /* ViewControllers */,
 				BDEB1DAA20A2B90000D91AB0 /* Sounds */,
-				BDEB1D7A20A1D1F000D91AB0 /* AppDelegate.swift */,
-				BDEB1D8120A1D1F000D91AB0 /* Assets.xcassets */,
-				BDEB1D8320A1D1F000D91AB0 /* LaunchScreen.storyboard */,
-				BDEB1D8620A1D1F000D91AB0 /* Info.plist */,
 			);
 			path = "hustle-mode";
 			sourceTree = "<group>";
