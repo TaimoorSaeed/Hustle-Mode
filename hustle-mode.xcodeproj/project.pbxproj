@@ -76,6 +76,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BD663D8820A2B91F0052967E /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				BDEB1D7E20A1D1F000D91AB0 /* Main.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
 		BDEB1D6E20A1D1F000D91AB0 = {
 			isa = PBXGroup;
 			children = (
@@ -99,10 +107,10 @@
 		BDEB1D7920A1D1F000D91AB0 /* hustle-mode */ = {
 			isa = PBXGroup;
 			children = (
-				BDEB1DA820A1D23C00D91AB0 /* hustle-on.wav */,
+				BD663D8820A2B91F0052967E /* Storyboards */,
+				BDEB1DAB20A2B90800D91AB0 /* ViewControllers */,
+				BDEB1DAA20A2B90000D91AB0 /* Sounds */,
 				BDEB1D7A20A1D1F000D91AB0 /* AppDelegate.swift */,
-				BDEB1D7C20A1D1F000D91AB0 /* ViewController.swift */,
-				BDEB1D7E20A1D1F000D91AB0 /* Main.storyboard */,
 				BDEB1D8120A1D1F000D91AB0 /* Assets.xcassets */,
 				BDEB1D8320A1D1F000D91AB0 /* LaunchScreen.storyboard */,
 				BDEB1D8620A1D1F000D91AB0 /* Info.plist */,
@@ -126,6 +134,22 @@
 				BDEB1D9C20A1D1F000D91AB0 /* Info.plist */,
 			);
 			path = "hustle-modeUITests";
+			sourceTree = "<group>";
+		};
+		BDEB1DAA20A2B90000D91AB0 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				BDEB1DA820A1D23C00D91AB0 /* hustle-on.wav */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		BDEB1DAB20A2B90800D91AB0 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				BDEB1D7C20A1D1F000D91AB0 /* ViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
