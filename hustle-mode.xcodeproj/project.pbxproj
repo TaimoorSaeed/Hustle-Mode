@@ -14,6 +14,7 @@
 		BDEB1D8520A1D1F000D91AB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDEB1D8320A1D1F000D91AB0 /* LaunchScreen.storyboard */; };
 		BDEB1D9020A1D1F000D91AB0 /* hustle_modeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDEB1D8F20A1D1F000D91AB0 /* hustle_modeTests.swift */; };
 		BDEB1D9B20A1D1F000D91AB0 /* hustle_modeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDEB1D9A20A1D1F000D91AB0 /* hustle_modeUITests.swift */; };
+		BDEB1DA920A1D23C00D91AB0 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = BDEB1DA820A1D23C00D91AB0 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BDEB1D9620A1D1F000D91AB0 /* hustle-modeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hustle-modeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDEB1D9A20A1D1F000D91AB0 /* hustle_modeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hustle_modeUITests.swift; sourceTree = "<group>"; };
 		BDEB1D9C20A1D1F000D91AB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDEB1DA820A1D23C00D91AB0 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		BDEB1D7920A1D1F000D91AB0 /* hustle-mode */ = {
 			isa = PBXGroup;
 			children = (
+				BDEB1DA820A1D23C00D91AB0 /* hustle-on.wav */,
 				BDEB1D7A20A1D1F000D91AB0 /* AppDelegate.swift */,
 				BDEB1D7C20A1D1F000D91AB0 /* ViewController.swift */,
 				BDEB1D7E20A1D1F000D91AB0 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDEB1DA920A1D23C00D91AB0 /* hustle-on.wav in Resources */,
 				BDEB1D8520A1D1F000D91AB0 /* LaunchScreen.storyboard in Resources */,
 				BDEB1D8220A1D1F000D91AB0 /* Assets.xcassets in Resources */,
 				BDEB1D8020A1D1F000D91AB0 /* Main.storyboard in Resources */,

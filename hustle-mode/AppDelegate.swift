@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  hustle-mode
-//
-//  Created by Asher Ahsan on 08/05/2018.
-//  Copyright © 2018 admin. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
